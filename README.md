@@ -32,7 +32,8 @@ Example:
 ```/dev/sda1```  
 ```find / -type b```
 
-- __c character device file : We can create using mknod command. These files are present in /dev folder File that reads/writes data in character by character.__   Example:
+- __c character device file : We can create using mknod command. These files are present in /dev folder File that reads/writes data in character by character.__ 
+    Example:
 ```/dev/input/mouse2```  
 
 
